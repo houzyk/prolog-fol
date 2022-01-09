@@ -6,9 +6,9 @@ Modelling FOL statements in Prolog.
 
 1. Install gnu-prolog using `brew install gnu-prolog`
 
-2. lauch the gnu-prolog with `gprolog` in the directory containing the prolog files 
+2. launch the gnu-prolog with `gprolog` in the directory containing the prolog files 
 
-3. load a prolog file into gnu-prolog using `[<FILENAME>].`
+3. load a prolog file into gnu-prolog using `[<FILENAME>].` (The . is important!)
 
 
 Note:
